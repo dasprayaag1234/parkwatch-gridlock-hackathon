@@ -1,0 +1,16 @@
+==========================================================
+        URBANFLUX CALIBRATED DATA PIPELINE LOGS            
+==========================================================
+Total System Pipeline Runtime: 20.99 Seconds
+Active High Density Clusters Identified: 481
+
+Top 3 Identified Enforcement Corridors Alpha Signatures:
+ -> Zone 385 | Severity: 64.97 | ROI: 0.5819 | Junction: Mid-Block Segment | Choke Zone: Yes
+ -> Zone 329 | Severity: 54.32 | ROI: 1.6768 | Junction: Mid-Block Segment | Choke Zone: No
+ -> Zone 356 | Severity: 51.69 | ROI: 0.4946 | Junction: Mid-Block Segment | Choke Zone: No
+==========================================================
+METHODOLOGY DISCLAIMER: The PCII (Physical Corridor Congestion
+Index Impact) is a heuristic proxy index derived from vehicle
+density multipliers. It is an enforcement burden indicator,
+not a raw traffic flow measurement.
+==========================================================
