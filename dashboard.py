@@ -481,7 +481,7 @@ div[data-testid="stVerticalBlock"] { gap: 0.5rem; }
 @st.cache_data(show_spinner=False)
 def load_raw_data():
 
-    df = pd.read_csv("jan to may police violation_anonymized791b166.csv")
+    df = pd.read_csv("jan to may police violation_anonymized791b166.zip")
 
     if "id" in df.columns:
         df = df.drop_duplicates(subset=["id"])
